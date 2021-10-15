@@ -4,7 +4,7 @@
 
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/MatthewsTomts/MatthewsTomts/raw/output/github-contribution-grid-snake.svg)
 <!--
 **MatthewsTomts/MatthewsTomts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
