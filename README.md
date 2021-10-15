@@ -1,6 +1,9 @@
 ### Hi there 👋
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewsTomts&layout=compact)](https://github.com/MatthewsTomts/github-readme-stats)
+
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <!--
 **MatthewsTomts/MatthewsTomts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
